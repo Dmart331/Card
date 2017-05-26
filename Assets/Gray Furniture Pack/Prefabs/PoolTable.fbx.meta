@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 7f78d16e1551c2f4e9ff180f19f36bca
+timeCreated: 1495640237
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BallRack
+    100002: Bed
+    100004: BilliardTable
+    100006: Caushion2
+    100008: Circle
+    100010: Circle.001
+    100012: Circle.002
+    100014: CornerMetalCovers
+    100016: CornerPockets
+    100018: Cube
+    100020: Cube.002
+    100022: Cue01
+    100024: CueTip
+    100026: CueTipCover
+    100028: Cushion
+    100030: Cylinder
+    100032: Cylinder.002
+    100034: Plane.003
+    100036: Plane.004
+    100038: Plane.005
+    100040: Plane.006
+    100042: //RootNode
+    100044: SideMetalCover
+    100046: SidePockets
+    100048: Sphere
+    100050: Table
+    400000: BallRack
+    400002: Bed
+    400004: BilliardTable
+    400006: Caushion2
+    400008: Circle
+    400010: Circle.001
+    400012: Circle.002
+    400014: CornerMetalCovers
+    400016: CornerPockets
+    400018: Cube
+    400020: Cube.002
+    400022: Cue01
+    400024: CueTip
+    400026: CueTipCover
+    400028: Cushion
+    400030: Cylinder
+    400032: Cylinder.002
+    400034: Plane.003
+    400036: Plane.004
+    400038: Plane.005
+    400040: Plane.006
+    400042: //RootNode
+    400044: SideMetalCover
+    400046: SidePockets
+    400048: Sphere
+    400050: Table
+    2300000: BallRack
+    2300002: Bed
+    2300004: Caushion2
+    2300006: Circle
+    2300008: Circle.001
+    2300010: Circle.002
+    2300012: CornerMetalCovers
+    2300014: CornerPockets
+    2300016: Cube
+    2300018: Cube.002
+    2300020: Cue01
+    2300022: CueTip
+    2300024: CueTipCover
+    2300026: Cushion
+    2300028: Cylinder
+    2300030: Cylinder.002
+    2300032: Plane.003
+    2300034: Plane.004
+    2300036: Plane.005
+    2300038: Plane.006
+    2300040: SideMetalCover
+    2300042: SidePockets
+    2300044: Sphere
+    2300046: Table
+    3300000: BallRack
+    3300002: Bed
+    3300004: Caushion2
+    3300006: Circle
+    3300008: Circle.001
+    3300010: Circle.002
+    3300012: CornerMetalCovers
+    3300014: CornerPockets
+    3300016: Cube
+    3300018: Cube.002
+    3300020: Cue01
+    3300022: CueTip
+    3300024: CueTipCover
+    3300026: Cushion
+    3300028: Cylinder
+    3300030: Cylinder.002
+    3300032: Plane.003
+    3300034: Plane.004
+    3300036: Plane.005
+    3300038: Plane.006
+    3300040: SideMetalCover
+    3300042: SidePockets
+    3300044: Sphere
+    3300046: Table
+    4300000: Circle.002
+    4300002: Circle.001
+    4300004: Table
+    4300006: Plane.006
+    4300008: Plane.005
+    4300010: Plane.004
+    4300012: Plane.003
+    4300014: Cylinder.002
+    4300016: BallRack
+    4300018: Cube.002
+    4300020: Bed
+    4300022: Circle
+    4300024: SidePockets
+    4300026: CornerPockets
+    4300028: SideMetalCover
+    4300030: Cylinder
+    4300032: Cube
+    4300034: CornerMetalCovers
+    4300036: Cushion
+    4300038: Caushion2
+    4300040: Sphere
+    4300042: Cue01
+    4300044: CueTip
+    4300046: CueTipCover
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
